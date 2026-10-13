@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a5747ac82d310ed920037f10",
+  "owner": "wsjegvw",
+  "repo": "page-35ab35e044cd2b98a3e9e014",
+  "title": "GPT中转",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "35ab35e044cd2b98a3e9e014",
+      "a": "GPT中转",
+      "b": "",
+      "entity": "GPT中转",
+      "brand": "GPT中转",
+      "separator": "",
+      "path": "index.html",
+      "hash": "3bdf059ba8331ef9242b7adde5b4d24d376a1b76ef77d3bfee69c5219d890bdc",
+      "content": {
+        "keyword1": "GPT中转",
+        "keyword2": "",
+        "primary_entity": "GPT中转",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT中转提供专业的VPN加速服务，支持高速节点，解锁流媒体平台。立即下载客户端，享受稳定高效的网络体验。",
+          "AI_DESCRIPTION": "GPT中转提供专业的VPN加速服务，支持高速节点，解锁流媒体平台。立即下载客户端，享受稳定高效的网络体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{background:#FAF6F0;color:#333;font-family:system-ui,-apple-system,sans-serif;margin:0;padding:0;line-height:1.6}.main{max-width:1200px;margin:0 auto;padding:2rem}.h1{font-size:2.8rem;text-align:center;margin:4rem 0 1rem;color:#228B22}.section{padding:2rem 0}.h2{color:#228B22;border-bottom:2px solid #F5F5DC;padding-bottom:.5rem;margin:2rem 0 1rem}.feature-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin:2rem 0}.plan{border:1px solid #E8E0D5;border-radius:8px;padding:1.5rem;background:#fff;box-shadow:0 2px 8px rgba(0,0,0,.05)}.plan.featured{border-color:#228B22;box-shadow:0 4px 12px rgba(34,139,34,.15)}.plan p{margin:1rem 0}.faq{margin:1.5rem 0}.summary{font-weight:700;cursor:pointer;color:#228B22;font-size:1.1rem}.answer{margin-top:.75rem;padding-left:1rem}.ul{padding-left:1.25rem}.li{margin:.5rem 0 0}.@media(max-width:768px){.h1{font-size:2.2rem}.main{padding:1rem}.feature-grid{grid-template-columns:1fr}}.footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid #E8E0D5;text-align:center;font-size:.9rem;color:#666}</style><main class=\"main\"><h1 class=\"h1\">GPT中转</h1><p>安全稳定的网络加速服务，助力您畅享全球高速网络</p><section class=\"section\"><h2 class=\"h2\">品牌简介</h2><p>GPT中转是专业VPN加速器，提供高速节点池与IPLC专线优化。无论日常浏览还是企业办公，都能获得极致网络体验。官方客户端一键连接，7x24在线支持。</p></section><section class=\"section\"><h2 class=\"h2\">使用场景</h2><h3>流媒体解锁</h3><p>轻松突破地区限制，观看Netflix、YouTube、Disney+等全球热门内容。</p><h3>游戏加速</h3><p>IPLC专线优化延迟，减少卡顿，享受流畅游戏体验。</p><h3>多设备在线</h3><p>基础版支持3台，旗舰版5台，团队版20台，满足家庭和团队需求。</p><h3>远程办公</h3><p>稳定线路保障办公效率，适合出差及跨境团队协作。</p></section><section class=\"section\"><h2 class=\"h2\">操作指南</h2><ol class=\"ul\"><li class=\"li\">访问官网下载最新客户端（支持Windows、macOS、Android、iOS）</li><li class=\"li\">注册账号后选择订阅方案</li><li class=\"li\">下载配置信息，导入客户端</li><li class=\"li\">选择高速节点一键连接</li></ol><a href=\"#plans\">立即查看套餐详情</a></section><section id=\"plans\" class=\"section\"><h2 class=\"h2\">会员套餐</h2><div class=\"feature-grid\"><div class=\"plan\"><h3>基础版</h3><p>¥15/月（按年付仅需¥150/年）</p><ul class=\"ul\"><li class=\"li\">每月100GB极速流量</li><li class=\"li\">支持3台设备同时在线</li><li class=\"li\">解锁基础流媒体</li><li class=\"li\">普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版<span>推荐</span></h3><p>¥35/月（按年付仅需¥350/年）</p><ul class=\"ul\"><li class=\"li\">每月300GB极速流量</li><li class=\"li\">支持5台设备同时在线</li><li class=\"li\">全节点原生流媒体解锁</li><li class=\"li\">IPLC专线游戏加速优化</li><li class=\"li\">7x24优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><p>¥85/月（按年付仅需¥850/年）</p><ul class=\"ul\"><li class=\"li\">每月1000GB极速流量</li><li class=\"li\">支持20台设备同时在线</li><li class=\"li\">VIP专属高带宽节点</li><li class=\"li\">支持企业定制路由</li><li class=\"li\">专属客户经理服务</li></ul></div></div></section><section class=\"section\"><h2 class=\"h2\">常见问题</h2><div class=\"faq\"><details><summary class=\"summary\">如何下载客户端？</summary><div class=\"answer\">请访问官网点击下载按钮，获取最新版客户端。支持多平台一键安装，官方地址在页面底部。</div></details></div><div class=\"faq\"><details><summary class=\"summary\">支持哪些设备？</summary><div class=\"answer\">客户端支持Windows、macOS、Android和iOS。基础版限3台同时在线，旗舰版5台，团队版20台。</div></details></div><div class=\"faq\"><details><summary class=\"summary\">能解锁哪些流媒体？</summary><div class=\"answer\">旗舰版及以上原生解锁Netflix、YouTube、Disney+等主流平台，基础版支持部分内容解锁。</div></details></div><div class=\"faq\"><details><summary class=\"summary\">线路质量如何？</summary><div class=\"answer\">提供多种高速节点，IPLC专线优化延迟，7x24在线支持工程师及时响应。</div></details></div><div class=\"faq\"><details><summary class=\"summary\">订阅后如何使用？</summary><div class=\"answer\">订阅成功后下载配置，导入客户端，选择对应节点即可连接。支持自动切换高速节点。</div></details></div><div class=\"faq\"><details><summary class=\"summary\">有无退款政策？</summary><div class=\"answer\">提供30天无理由退款，具体以官方条款为准。</div></details></div></section><footer class=\"footer\">友情链接：暂无<br>版权所有 © GPT中转 官网客户端下载</footer><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "9a511f72173d34b9f21d3b97995c6efc713c73039bc4bb5bb0ce6c261abecc77",
+          "seo": {
+            "title": "GPT中转 - 高速VPN加速器 客户端下载 官网",
+            "keywords": "GPT中转, VPN加速器, 机场, 客户端下载, 网络加速, 官网, 流量包",
+            "description": "GPT中转提供专业的VPN加速服务，支持高速节点，解锁流媒体平台。立即下载客户端，享受稳定高效的网络体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "youxiangtuan.cn",
+    "host": "p-5df99d1e6d.youxiangtuan.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "0ed33dfebe8d280234365a1f59bbf21de8928bf29aebaa443722ba2d3eaa8b64",
+    "sitemap.xml": "dda1dfd7d42bf4a130016cd21312723bb10a03b7126cf09ec35358d564a8a752",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e6983f387f4e690e900a30ee0482d9c9c185fe8bd3602909846d6964fc4f344a",
+    "robots.txt": "6a70309ce498cb839df8ec505429d2eaa5b3fc900b034adac39e85ae99aad997",
+    "394ae9585b356a0c0c8b5c8c91df7571.txt": "746644e6f372712817a8e5e5d81809d243295c64f74af285c6100ae693ae3aec"
+  },
+  "revision": "e9c24b29e616af44ee1f13cae8c3124e8ccd04563c8df6231b9b6069eda3fa10"
+}
